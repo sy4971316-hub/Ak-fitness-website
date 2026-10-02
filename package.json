@@ -1,0 +1,20 @@
+{
+    "name": "ak-fitness-gym",
+    "version": "1.0.0",
+    "description": "AK Fitness (एक फिटनेस) - 24/7 Premium Gym in Bhogal, South Delhi",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node server.js"
+    },
+    "keywords": [
+        "gym",
+        "fitness",
+        "24-7",
+        "delhi",
+        "bhogal",
+        "jungpura"
+    ],
+    "author": "AK Fitness",
+    "license": "MIT"
+}
